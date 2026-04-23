@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
-// Import semua komponen yang sudah kita buat
 import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 import Varian from '../components/Varian';
